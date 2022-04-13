@@ -1,0 +1,24 @@
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+@import 'abstracts/reset';
+@import 'abstracts/typography';
+
+@import 'components/buttons';
+@import 'components/carousel';
+@import 'components/cover';
+@import 'components/dropdown';
+
+@import 'layout/footer';
+@import 'layout/forms';
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/navigation';
+@import 'layout/sidebar';
+
+//Importe les pages
+
+@import 'themes/admin';
+@import 'themes/theme';
+
+@import 'vendors/bootstrap';
